@@ -12,6 +12,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2-0.20200602030031-7e6ae53ffa0b
 	github.com/ugorji/go v1.1.8-0.20190812104308-42bc974514ff
 	golang.org/x/sys v0.0.0-20200610111108-226ff32320da
+	golang.org/x/tools/gopls v0.4.1 // indirect
 	google.golang.org/protobuf v1.24.1-0.20200612063355-beaa55256c57
 	gopkg.in/go-playground/validator.v8 v8.18.2
 	gopkg.in/yaml.v2 v2.3.0
