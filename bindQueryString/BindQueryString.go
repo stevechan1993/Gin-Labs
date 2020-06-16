@@ -8,9 +8,9 @@ import (
 )
 
 type Person struct {
-	Name	string
-	Address	string
-	Birthday	time.Time
+	Name	string	`form:"name"`
+	Address	string	`form:"address"`
+	Birthday	time.Time	`form:"birthday" time_format:"2006-01-02" tie_utc:"1"`
 }
 
 func main() {
