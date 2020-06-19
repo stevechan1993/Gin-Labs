@@ -5,6 +5,7 @@ go 1.14
 require (
 	github.com/gin-contrib/sse v0.1.1-0.20190905051334-43f0f29dbd2b // indirect
 	github.com/gin-gonic/gin v1.3.0
+	github.com/go-playground/validator/v10 v10.3.0
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/goproxy/goproxy v0.0.0-20200609095943-fc97b3fda2af // indirect
 	github.com/jessevdk/go-assets v0.0.0-20160921144138-4f4301a06e15
