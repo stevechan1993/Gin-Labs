@@ -16,6 +16,7 @@ require (
 	github.com/ugorji/go v1.1.8-0.20190812104308-42bc974514ff // indirect
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9 // indirect
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9 // indirect
+	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
 	golang.org/x/sys v0.0.0-20200610111108-226ff32320da // indirect
 	golang.org/x/tools/gopls v0.4.1 // indirect
 	google.golang.org/protobuf v1.24.1-0.20200612063355-beaa55256c57 // indirect
