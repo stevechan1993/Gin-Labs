@@ -1,5 +1,5 @@
 # Gin-Tutorial
-This is a Gin-Tutorail Projects
+A Gin-Tutorials Projects
 
 # Requirements
 Go 1.9 or above
@@ -30,7 +30,7 @@ $ curl https://raw.githubusercontent.com/gin-gonic/examples/master/basic/main.go
 $go run main.go
 ```
 # Getting Started
-First, cd inside any folder you wanted
+Change directory to any folder you wanted
 ```
 $go run example.go
 ```
